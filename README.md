@@ -24,6 +24,10 @@ composer update
 ## Usage
 After running the server, you can go to [http://localhost/api](http://localhost/api) address and access the API Platform page of the application.
 
+![1655906185598](https://user-images.githubusercontent.com/5255758/175047289-f00af059-5e04-49a3-85ff-35a5e6ede9ee.png)
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
